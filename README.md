@@ -13,7 +13,7 @@ docker-compose --version
 - Run the moodle and mongo db containers
 ```sh
 cd moodle
-6: sudo docker-compose up -d 
+sudo docker-compose up -d 
 ```
 - check the browser 
 http://devlms.simplilearn.com:8080  [ make sure your hosts file has has devlms.simplilearn.com entry ]
